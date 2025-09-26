@@ -33,8 +33,9 @@ Currently focused on building **scalable web applications** and **custom WordPre
 ---
 
 ## 📊 GitHub Stats
-![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=teu-username&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teu-username&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioz07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioz07&layout=compact&theme=tokyonight)
 
 ---
 
