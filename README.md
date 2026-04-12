@@ -36,11 +36,16 @@ Currently focused on building **scalable web applications** and **custom WordPre
 ---
 
 ## 📊 GitHub Stats
-![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioz07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioz07&layout=compact&theme=tokyonight)
+
+![Júlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=julioz07&show_icons=true&theme=tokyonight&cache_seconds=86400&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julioz07&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesarrodrigues07/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://1drv.ms/f/s!Au_S1EuPGHxdgZBH8zgnEKD99MTMtA?e=hduCc5)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliocesarrodrigues07/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://1drv.ms/f/s!Au_S1EuPGHxdgZBH8zgnEKD99MTMtA?e=hduCc5)
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/julioz07)
